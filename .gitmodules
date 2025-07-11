@@ -1,4 +1,5 @@
 
 [submodule "tools/gvsoc"]
 	path = tools/gvsoc
-	url = https://github.com/gvsoc/gvsoc.git
+	url = https://github.com/domenikali/gvsoc.git
+	branch = feature/SHR_PCM_module
